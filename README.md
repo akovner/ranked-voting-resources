@@ -10,3 +10,4 @@ Informational resources for creating a ranked voting library
 ## Some web pages of interest
 
 - [Wikipedia - Comparison of Electoral Systems](https://en.wikipedia.org/wiki/Comparison_of_electoral_systems)
+- [Wikipedia - Electoral Quota](https://en.wikipedia.org/wiki/Electoral_quota)
