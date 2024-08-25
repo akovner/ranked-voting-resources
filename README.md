@@ -11,3 +11,4 @@ Informational resources for creating a ranked voting library
 
 - [Wikipedia - Comparison of Electoral Systems](https://en.wikipedia.org/wiki/Comparison_of_electoral_systems)
 - [Wikipedia - Electoral Quota](https://en.wikipedia.org/wiki/Electoral_quota)
+- [Analyzing Vote Counting Algorithms via Logic](https://formal.kastel.kit.edu/~beckert/pub/cade2013stv.pdf)
